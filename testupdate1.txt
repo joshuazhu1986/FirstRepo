@@ -4,3 +4,5 @@ this is first line from rmbp
 haha, this is Wednesday
 
 add new line in newbranch1
+
+add 2nd line in newbranch1
