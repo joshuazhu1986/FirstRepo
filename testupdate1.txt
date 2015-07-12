@@ -2,3 +2,5 @@ test1
 helloworld
 this is first line from rmbp
 haha, this is Wednesday
+
+add new line in newbranch1
